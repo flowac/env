@@ -1,0 +1,2 @@
+set -x
+cp -v .bash* .vimrc 1-* 2-* 3-* ~
