@@ -4,6 +4,7 @@ alias e=emacsclient
 alias la='ls -la'
 alias ll='ls -l'
 alias p=python3
+alias s=sudo
 alias v=vim
 
 alias c1='cat ~/1*'
