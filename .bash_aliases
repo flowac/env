@@ -11,6 +11,7 @@ alias gb='git blame'
 alias gc='git commit'
 alias gco='git checkout'
 alias gd='git diff'
+alias gl='git log'
 alias gs='git status'
 
 alias c1='cat ~/1*'
