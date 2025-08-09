@@ -6,6 +6,12 @@ alias ll='ls -l'
 alias p=python3
 alias s=sudo
 alias v=vim
+alias ga='git add'
+alias gb='git blame'
+alias gc='git commit'
+alias gco='git checkout'
+alias gd='git diff'
+alias gs='git status'
 
 alias c1='cat ~/1*'
 alias c2='cat ~/2*'
